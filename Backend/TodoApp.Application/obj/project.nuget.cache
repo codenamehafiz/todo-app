@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KOqNRbsfGyg=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\todo-app\\Backend\\TodoApp.Application\\TodoApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hafiz\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\Hafiz\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\Hafiz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\Hafiz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

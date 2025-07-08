@@ -1,0 +1,15 @@
+C:\Projects\TodoApp\TodoApp.Application\bin\Debug\net9.0\TodoApp.Application.deps.json
+C:\Projects\TodoApp\TodoApp.Application\bin\Debug\net9.0\TodoApp.Application.dll
+C:\Projects\TodoApp\TodoApp.Application\bin\Debug\net9.0\TodoApp.Application.pdb
+C:\Projects\TodoApp\TodoApp.Application\bin\Debug\net9.0\TodoApp.Core.dll
+C:\Projects\TodoApp\TodoApp.Application\bin\Debug\net9.0\TodoApp.Core.pdb
+C:\Projects\TodoApp\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.csproj.AssemblyReference.cache
+C:\Projects\TodoApp\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TodoApp\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.AssemblyInfoInputs.cache
+C:\Projects\TodoApp\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.AssemblyInfo.cs
+C:\Projects\TodoApp\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.csproj.CoreCompileInputs.cache
+C:\Projects\TodoApp\TodoApp.Application\obj\Debug\net9.0\TodoApp..05D78BBE.Up2Date
+C:\Projects\TodoApp\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.dll
+C:\Projects\TodoApp\TodoApp.Application\obj\Debug\net9.0\refint\TodoApp.Application.dll
+C:\Projects\TodoApp\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.pdb
+C:\Projects\TodoApp\TodoApp.Application\obj\Debug\net9.0\ref\TodoApp.Application.dll

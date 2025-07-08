@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TodoApp.API</name>
+    </assembly>
+    <members>
+        <member name="M:TodoApp.API.Controllers.TodosController.GetTodos">
+            <summary>
+            Get all todo items
+            </summary>
+            <returns>A list of todo items</returns>
+        </member>
+        <member name="M:TodoApp.API.Controllers.TodosController.GetTodo(System.Int32)">
+            <summary>
+            Get a specific todo item by ID
+            </summary>
+            <param name="id">The ID of the todo item</param>
+            <returns>The todo item</returns>
+        </member>
+        <member name="M:TodoApp.API.Controllers.TodosController.CreateTodo(TodoApp.Application.DTOs.CreateTodoItemDto)">
+            <summary>
+            Create a new todo item
+            </summary>
+            <param name="createDto">The todo item to create</param>
+            <returns>The created todo item</returns>
+        </member>
+        <member name="M:TodoApp.API.Controllers.TodosController.UpdateTodo(System.Int32,TodoApp.Application.DTOs.UpdateTodoItemDto)">
+            <summary>
+            Update an existing todo item
+            </summary>
+            <param name="id">The ID of the todo item to update</param>
+            <param name="updateDto">The updated todo item data</param>
+            <returns>The updated todo item</returns>
+        </member>
+        <member name="M:TodoApp.API.Controllers.TodosController.DeleteTodo(System.Int32)">
+            <summary>
+            Delete a todo item
+            </summary>
+            <param name="id">The ID of the todo item to delete</param>
+            <returns>No content</returns>
+        </member>
+    </members>
+</doc>
