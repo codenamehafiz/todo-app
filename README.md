@@ -102,20 +102,6 @@ dotnet test
 ### CORS Errors
 If you get CORS errors, make sure the API is configured to allow requests from `http://localhost:3000`
 
-## 🚢 Production Build
-
-### Build Frontend
-```bash
-cd todo-frontend
-npm run build
-```
-
-### Build Backend
-```bash
-cd TodoApp.API
-dotnet publish -c Release
-```
-
 ---
 
 **That's it! 🎉**
